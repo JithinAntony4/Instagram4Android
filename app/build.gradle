@@ -1,7 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: 'com.android.application'
 
-group='com.github.charlieAndroidDev'
+group='com.github.JithinAntony4'
 
 
 android {
